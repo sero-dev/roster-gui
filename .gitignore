@@ -23,7 +23,8 @@ hs_err_pid*
 
 # IDEA files
 .idea/
-.out/
+out/
+.project
 *.classpath
 *.eml
 *.iml
